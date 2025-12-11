@@ -61,20 +61,6 @@ DAX for custom KPIs
 
 CSV datasets (matches & deliveries)
 
-🗂 Repository Structure
-IPL-Performance-Dashboard/
-│── IPL Dashboard.pbix
-│── README.md
-│── Project Report.pdf
-│── Business Requirement.pdf
-│── Dataset/
-│     ├── matches.csv
-│     ├── deliveries.csv
-│── Images/
-      ├── image1.png
-      ├── image2.png
-      ├── image3.png
-
 📁 Dataset Description
 1️⃣ Matches Dataset
 
