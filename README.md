@@ -27,7 +27,17 @@ The dashboard answers important questions such as:
 
 ---
 
-## 🏗 Dashboard Pages
+## 🖼️ Dashboard Preview
+
+### 📌 Overview Page
+![Dashboard Overview](image1.png)
+
+### 📌 Season Trends Page
+![Season Trends](image2.png)
+
+### 📌 Player & Match Analysis Page
+![Player and Match Analysis](image3.png)
+
 
 ### **1️⃣ Season Trends**
 - Total Matches Played  
